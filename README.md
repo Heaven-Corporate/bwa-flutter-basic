@@ -1,6 +1,6 @@
 # bwa_basic
 
-A new Flutter project.
+Project belajar basic dari bwa mas rifqieh
 
 ## Getting Started
 
