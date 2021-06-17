@@ -2,6 +2,8 @@
 
 Project belajar basic dari bwa mas rifqieh
 
+![BWA Basic Mas Rifqieh](https://user-images.githubusercontent.com/50306963/122432824-dc7fd380-cfbf-11eb-8634-19b576b6ab7c.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -15,5 +17,3 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Preview UI
-![BWA Basic Mas Rifqieh](https://user-images.githubusercontent.com/50306963/109054437-71f51000-7710-11eb-9c01-34615c89cf16.jpg)
